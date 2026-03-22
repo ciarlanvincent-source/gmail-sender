@@ -1,0 +1,11 @@
+{
+  "name": "gmail-sender",
+  "version": "1.0.0",
+  "description": "Application d envoi d emails via OAuth Gmail",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^140.0.0"
+  }
+}
